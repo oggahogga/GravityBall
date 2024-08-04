@@ -2,7 +2,8 @@
 
 ## Description
 
-GravityBall is a mod for Gorilla Tag that creates a floating sphere that follows your right controller. The sphere smoothly springs towards the hand when grabbed and creates a visual effect with a line renderer.
+- GravityBall is a mod for Gorilla Tag that creates a floating sphere that follows your right controller and springs back and forth or around your hand like a planet orbiting your hand.
+- Pretty fun to play with when you're bored.
 
 ## Features
 
